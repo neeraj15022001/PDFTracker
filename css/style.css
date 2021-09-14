@@ -20,3 +20,40 @@
 .btn{
     margin-bottom: 0;   
 }
+
+.upload-pdf-container{
+    display: none;
+    padding: 10% 5%;
+}
+.upload-files{
+    /* height: 60vh; */
+    width: 50%;
+    border: 5px dashed blueviolet;
+    background-color: rgb(199, 167, 230);
+    margin: 5% auto 0%;
+    padding-top: 2%;
+    text-align: center;
+}
+#addFilesBtn{
+    width: 15rem;
+    margin-bottom: 4%;
+}
+#uploadFilesToAccount{
+    border: none;
+    border-radius: 3px;
+    padding: 0.5% 0.45%;
+    margin-top: 2%;
+    background-color: blueviolet;
+    color: white;
+}
+.prevText{
+    width: 100%;
+    font-size: 2.5rem;
+    text-align: center;
+    color: rgb(126, 119, 133);
+}
+.drop-files{
+    padding: 5% 10%;
+    text-align: justify;
+    font-size: medium;
+}
