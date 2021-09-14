@@ -1,0 +1,22 @@
+.login-container{
+    width: 40%;
+    margin: 10% auto;
+    padding: 2% 2%;
+    border: 2px solid gray;
+}
+#loginHeading{
+    text-align: center;
+    margin-bottom: 2%;
+}
+.details{
+    margin: 3% 0%;
+    position: relative;
+}
+#nameOfUser,#passwordOfUser{
+    position: absolute;
+    right: 5%;
+    width: 15rem
+}
+.btn{
+    margin-bottom: 0;   
+}
